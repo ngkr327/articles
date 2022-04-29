@@ -14,6 +14,7 @@ Qiita に投稿した記事を管理するリポジトリになります。
 | [FFmpeg コマンド一覧](https://qiita.com/ngkr327/items/073725350c3cf43364e0) | FFmpeg のコマンドをまとめた記事 | 2022年01月29日 |  |
 | [Could not find tools.jar. でビルドエラーになった話](https://qiita.com/ngkr327/items/ce4a56658f8c1d2be410) | ビルドができない問題の解決策をまとめた記事 | 2022年02月26日 |  |
 | [Android の Wi-Fi 関連の実装についての話](https://qiita.com/ngkr327/items/dabd90aebe7caaf5b743) | Android における Wi-Fi まわりの実装をまとめた記事 | 2022年03月26日 |  |
+| [adb コマンド一覧](https://qiita.com/ngkr327/items/1d371de69f7851971a1c) | adb のコマンドをまとめた記事 | 2022年04月30日 |  |
 
 ## Author
 
