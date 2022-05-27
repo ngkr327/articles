@@ -41,6 +41,14 @@ $ ./ffmpeg -i input.mp4 -r 30 output.mp4
 $ ./ffmpeg -i input.mp4 -vcodec copy -an output.mp4
 ```
 
+### .mov から .mp4 に動画を変換する
+
+```
+$ ./ffmpeg -i input.mp4 -pix_fmt yuv420p output.mp4
+```
+
+QuickTime Player で再生させるためには `-pix_fmt yuv420p` オプションが必要です。
+
 ## ちょっとひとこと
 
 お読みいただきありがとうございます。
