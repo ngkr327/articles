@@ -61,7 +61,7 @@ $ adb pull /data/anr/traces.txt ./
 $ adb shell dpm set-device-owner <component>
 ```
 
-## デバイスにインストールされているパッケージの一覧を取得する
+### デバイスにインストールされているパッケージの一覧を取得する
 
 ```
 $ adb shell pm list package
