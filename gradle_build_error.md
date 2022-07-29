@@ -21,6 +21,7 @@ url: "https://qiita.com/ngkr327/items/ce4a56658f8c1d2be410"
 ## 解決方法
 
 メッセージにあるように `tool.jar` を所定の位置に配置すると解決します。
+自分の環境ですと `/Users/<ユーザー名>/Library/Internet Plug-Ins/JavaAppletPlugin.plugin/Contents/Home/lib` にありましたのでコピーします。
 
 ```
 $ cd //Library/Internet\ Plug-Ins/JavaAppletPlugin.plugin/Contents/Home/lib/
@@ -36,9 +37,3 @@ $ sudo cp <コピー元のパス>/tools.jar ./
 
 - ユーザーのライブラリフォルダー（ `/Users/<ユーザー名>/Library` ）ではないので注意が必要です。
 ビルドができなくて焦ってしまい、初手はここを見に行ってしまうミスを何回かやらかしました...
-
-## ちょっとひとこと
-
-お読みいただきありがとうございます。
-いつも色々なサイトを参考にさせていただいています、感謝ですね。
-この記事も皆様の参考になれば幸いです。
