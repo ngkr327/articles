@@ -21,6 +21,7 @@ Qiita に投稿した記事を管理するリポジトリになります。
 | [Google Apps Script でスプレッドシートの最終行に値をコピーする話](https://qiita.com/ngkr327/items/ab43e4bc51a408389664) |  | 2022年09月24日 |  |
 | [Google Apps Script でスプレッドシートにカスタムメニューを追加する話](https://qiita.com/ngkr327/items/9cb2cf989d5da750a4b1) |  | 2022年10月29日 |  |
 | [同一ネットワークにある IP アドレスを確認する話](https://qiita.com/ngkr327/items/36d858de2fafcfd6e355) |  | 2022年11月26日 |  |
+| [今年読んだ書籍の読書記録【2022年版】](https://qiita.com/ngkr327/items/e3a44da406743e44d2f3) |  | 2022年12月31日 |  |
 
 ## Author
 
