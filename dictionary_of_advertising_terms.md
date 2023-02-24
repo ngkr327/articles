@@ -12,6 +12,7 @@ url: "https://qiita.com/ngkr327/items/95ad713f811710185f44"
 ## 索引
 
 - [Ａ〜Ｚ](#AZ)
+  - [CPD](#CPD)
   - [DoubleClick For Publishers](#DFP)
   - [DSP](#DSP)
   - [Google Ad Manager](#GAM)
@@ -77,6 +78,12 @@ url: "https://qiita.com/ngkr327/items/95ad713f811710185f44"
 <a id="AZ"></a>
 
 ## Ａ〜Ｚ
+
+<a id="CPD"></a>
+
+**CPD**  cost per day
+１日あたりの広告単価。
+`CPD = コスト / 掲載日数`
 
 <a id="DFP"></a>
 
@@ -377,8 +384,3 @@ Google が提供しているアドサーバー。
 
 **枠**
 ⇒ [広告枠](#広告枠)
-
-## ちょっとひとこと
-
-お読みいただきありがとうございます。
-広告、アドテク業界の基本用語をまとめてみました。業界用語をどこまで採用するかは悩ましいところですが、適宜増やして行けたらと思います。
