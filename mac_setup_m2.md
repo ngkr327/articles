@@ -413,11 +413,11 @@ b. ダウンロードしたファイルを実行し、インストール手順�
 c. バージョンを確認します。
 
 ```
-% which aws
-/usr/local/bin/aws
-
 % aws --version
 aws-cli/2.9.17 Python/3.9.11 Darwin/22.2.0 exe/x86_64 prompt/off
+
+% which aws
+/usr/local/bin/aws
 ```
 
 - EB CLI のインストール
@@ -434,6 +434,34 @@ e. バージョンを確認します。
 % eb --version
 EB CLI 3.20.3 (Python 3.11.)
 ```
+
+### **Node.js**
+
+- Node.js のインストール
+
+a. [インストーラー](https://nodejs.org/ja/download/) をダウンロードします。
+
+b. ダウンロードしたファイルを実行し、インストール手順に従ってインストールします。
+
+c. バージョンを確認します。
+
+```
+% node --version
+v18.14.0
+
+% which node
+/usr/local/bin/node
+
+% npm --version
+9.3.1
+
+% which npm
+/usr/local/bin/npm
+```
+
+> 公式ページ
+
+[Node.js](https://nodejs.org/en/)
 
 ## その他のアプリケーション
 
