@@ -25,6 +25,7 @@ Qiita に投稿した記事を管理するリポジトリになります。
 | [M2 Mac に開発環境をセットアップした話](https://qiita.com/ngkr327/items/cc5b199abddaa6739ca7) |  | 2023年01月28日 | 2023年02月25日 |
 | [clasp を導入した話](https://qiita.com/ngkr327/items/31ff70142860eb4f9ec6) |  | 2023年02月25日 |  |
 | [javax.xml.bind.JAXBException でビルドエラーになった話](https://qiita.com/ngkr327/items/ba09444e5d4dd85901b5) |  | 2023年03月25日 |  |
+| [Mac 環境から Node.js を アンインストールする話](https://qiita.com/ngkr327/items/b02aa83d8eaff086385d) |  | 2023年04月29日 |  |
 
 ## Author
 
