@@ -26,6 +26,7 @@ Qiita に投稿した記事を管理するリポジトリになります。
 | [clasp を導入した話](https://qiita.com/ngkr327/items/31ff70142860eb4f9ec6) |  | 2023年02月25日 |  |
 | [javax.xml.bind.JAXBException でビルドエラーになった話](https://qiita.com/ngkr327/items/ba09444e5d4dd85901b5) |  | 2023年03月25日 |  |
 | [Mac 環境から Node.js を アンインストールする話](https://qiita.com/ngkr327/items/b02aa83d8eaff086385d) |  | 2023年04月29日 |  |
+| [adb コマンドでファイルを端末に転送する話](https://qiita.com/ngkr327/items/aa2afe4e0ed4f928a22d) |  | 2023年05月27日 |  |
 
 ## Author
 
