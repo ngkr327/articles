@@ -23,6 +23,9 @@ adb コマンドを使用すると、アプリのインストールやデバッ�
 - GitHub
 [adbtool-for-mac](https://github.com/ngkr327/adbtool-for-mac)
 
+## 環境
+
+macOS Ventura 13.1
 
 ## コマンド一覧
 
@@ -52,6 +55,15 @@ Android では、ANR が発生するとトレース情報が保存されます�
 $ adb pull /data/anr/traces.txt ./
 ```
 
+### デバイスにファイルをコピーする
+
+```
+$ adb push <pc> <dvice>
+
+// ダウンロードフォルダにコピー
+$ adb push <file> /sdcard/Download/
+```
+
 ### 指定したパッケージをデバイスオーナー設定する
 
 アクティブな管理者として設定し、そのパッケージをデバイスオーナーとして設定します。
@@ -66,8 +78,3 @@ $ adb shell dpm set-device-owner <component>
 ```
 $ adb shell pm list package
 ```
-
-## ちょっとひとこと
-
-お読みいただきありがとうございます。
-皆様の参考になれば幸いです。

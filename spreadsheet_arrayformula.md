@@ -1,6 +1,6 @@
 ---
 title: "ARRAYFOMULA 関数で複数行のそれぞれの合計を計算する話"
-tags: ["スプレッドシート", "ARRAYFORMULA"]
+tags: ["spreadsheet", "ARRAYFORMULA"]
 private: false
 url: "https://qiita.com/ngkr327/items/018971759f6099400e72"
 ---

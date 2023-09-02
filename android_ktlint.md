@@ -24,17 +24,12 @@ url: "https://qiita.com/ngkr327/items/fcc2b3dc4e388abcfef3"
 
 ## 導入
 
-### 1. やりたいこと
-
-- ktlint でコードをフォーマットしたい
-- さらに、ビルド時にフォーマットが走るようにしたい
-
-### 2. 準備
+### 1. 準備
 
 Android Studio: `3.4.1`
 ktlint: `0.4.0`
 
-### 3. 導入
+### 2. 導入
 
 （ktlint の [README](https://github.com/pinterest/ktlint/blob/master/README.md) のとおり）Gradle へ依存関係の追加と、ktlint を実行するためのタスクを追加します。
 
@@ -104,9 +99,3 @@ tasks.whenTaskAdded { task ->
 ```
 
 これにより毎回コマンドを実行しなくても、ビルド時にフォーマットしてくれるようになります。コミット後のフォーマットの修正漏れの予防にもなります。
-
-## ちょっとひとこと
-
-お読みいただきありがとうございます。
-今回は基本的な ktlint の導入と使い方をまとめました。
-皆様の参考になれば幸いです。

@@ -33,6 +33,10 @@ macOS Ventura 13.1
 
 ### **Homebrew**
 
+> 公式ページ
+
+[Homebrew](https://brew.sh/index_ja)
+
 - インストール
 
 a. 下記のコマンドを実行します。
@@ -58,10 +62,6 @@ Homebrew/homebrew-core (git revision b7861bb27c5; last commit 2023-01-04)
 % which brew
 /opt/homebrew/bin/brew
 ```
-
-> 公式ページ
-
-[Homebrew](https://brew.sh/index_ja)
 
 ### **Git**
 
@@ -104,15 +104,15 @@ Host github.com
 
 ### **VSCode**
 
+> 公式ページ
+
+[Visual Studio Code](https://azure.microsoft.com/ja-jp/products/visual-studio-code/)
+
 - ダウンロードとインストール
 
 a. [ダウンロードサイト](https://code.visualstudio.com/Download) にアクセスし、Apple silicon 版をダウンロードします。
 
 b. アプリケーションフォルダに Visual Studio Code.app をドラッグ＆ドロップします。
-
-> 公式ページ
-
-[Visual Studio Code](https://azure.microsoft.com/ja-jp/products/visual-studio-code/)
 
 #### **Extensions**
 
@@ -146,6 +146,10 @@ b. アプリケーションフォルダに Visual Studio Code.app をドラッ�
 
 ### **Android Studio**
 
+> 公式ページ
+
+[Android Developers](https://developer.android.com/)
+
 - ダウンロードとインストール
 
 a. [ダウンロードサイト](https://developer.android.com/studio) にアクセスし、Apple silicon 版をダウンロードします。
@@ -175,11 +179,11 @@ Version 33.0.3-8952118
 Installed as /Users/<ユーザー名>/Library/Android/sdk/platform-tools/adb
 ```
 
+### **Docker Desktop**
+
 > 公式ページ
 
-[Android Developers](https://developer.android.com/)
-
-### **Docker Desktop**
+[Docker](https://www.docker.com/)
 
 - Rosetta 2 のインストール
 
@@ -196,10 +200,6 @@ b. [ダウンロードサイト](https://docs.docker.com/desktop/install/mac-ins
 c. アプリケーションフォルダに Docker.app をドラッグ＆ドロップします。
 
 d. アプリを起動します。
-
-> 公式ページ
-
-[Docker](https://www.docker.com/)
 
 ### **Python**
 
@@ -437,6 +437,10 @@ EB CLI 3.20.3 (Python 3.11.)
 
 ### **Node.js**
 
+> 公式ページ
+
+[Node.js](https://nodejs.org/en/)
+
 - Node.js のインストール
 
 a. [インストーラー](https://nodejs.org/ja/download/) をダウンロードします。
@@ -458,10 +462,6 @@ v18.14.0
 % which npm
 /usr/local/bin/npm
 ```
-
-> 公式ページ
-
-[Node.js](https://nodejs.org/en/)
 
 ## その他のアプリケーション
 

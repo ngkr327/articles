@@ -1,6 +1,6 @@
 ---
 title: "Google Apps Script でスプレッドシートの最終行に値をコピーする話"
-tags: ["GoogleAppsScript", "スプレッドシート"]
+tags: ["GoogleAppsScript", "spreadsheet"]
 private: false
 url: "https://qiita.com/ngkr327/items/ab43e4bc51a408389664"
 ---

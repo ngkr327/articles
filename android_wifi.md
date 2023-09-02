@@ -1,6 +1,6 @@
 ---
 title: "Android の Wi-Fi 関連の実装についての話"
-tags: ["Android", "WiFi"]
+tags: ["Android", "Kotlin", "WiFi"]
 private: false
 url: "https://qiita.com/ngkr327/items/dabd90aebe7caaf5b743"
 ---
@@ -81,7 +81,3 @@ WifiManager manager = (WifiManager) getSystemService(WIFI_SERVICE);
 WifiInfo info = manager.getConnectionInfo();
 manager.disableNetwork(info.getNetworkId());
 ```
-
-## ちょっとひとこと
-
-お読みいただきありがとうございます。

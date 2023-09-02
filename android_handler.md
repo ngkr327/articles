@@ -64,7 +64,3 @@ val runnable = object : Runnable{
 }
 handler.postDelayed(runnable, delayMillis)
 ```
-
-## ちょっとひとこと
-
-お読みいただきありがとうございます。
