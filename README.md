@@ -4,26 +4,7 @@ Qiita に投稿した記事を管理するリポジトリになります。
 
 ## Description
 
-### 記事一覧
-
-| タイトル | Created | Last Updated |
-| --- | :---: | :---: |
-| [広告／アドテック用語辞典](https://qiita.com/ngkr327/items/95ad713f811710185f44) | 2021年10月30日 | 2023年09月01日 |
-| [ktlint を導入した話](https://qiita.com/ngkr327/items/fcc2b3dc4e388abcfef3) | 2021年11月27日 | 2023年09月01日 |
-| [今年読んだ書籍の読書記録【2021年版】](https://qiita.com/ngkr327/items/963438b127e8d09dda91) | 2021年12月25日 | 2023年09月01日 |
-| [FFmpeg コマンド一覧](https://qiita.com/ngkr327/items/073725350c3cf43364e0) | 2022年01月29日 | 2023年09月01日 |
-| [Android の Wi-Fi 関連の実装についての話](https://qiita.com/ngkr327/items/dabd90aebe7caaf5b743) | 2022年03月26日 | 2023年09月01日 |
-| [adb コマンド一覧](https://qiita.com/ngkr327/items/1d371de69f7851971a1c) | 2022年04月30日 | 2023年09月01日 |
-| [Android で指定した時間後に処理を行う方法についての話](https://qiita.com/ngkr327/items/e21dfb12d39f48f4b08f) | 2022年05月28日 | 2023年09月01日 |
-| [ARRAYFOMULA 関数で複数行のそれぞれの合計を計算する話](https://qiita.com/ngkr327/items/018971759f6099400e72) | 2022年06月25日 |  |
-| [今年読んだ書籍の読書記録【2022年版】](https://qiita.com/ngkr327/items/e3a44da406743e44d2f3) | 2022年12月31日 |  |
-| [Android で端末の充電状態を監視するようにした話](https://qiita.com/ngkr327/items/112885cad9806e233b9d) | 2022年07月30日 |  |
-| [Google Apps Script でスプレッドシートの最終行に値をコピーする話](https://qiita.com/ngkr327/items/ab43e4bc51a408389664) | 2022年09月24日 |  |
-| [Google Apps Script でスプレッドシートにカスタムメニューを追加する話](https://qiita.com/ngkr327/items/9cb2cf989d5da750a4b1) | 2022年10月29日 |  |
-| [同一ネットワークにある IP アドレスを確認する話](https://qiita.com/ngkr327/items/36d858de2fafcfd6e355) | 2022年11月26日 |  |
-| [M2 Mac に開発環境をセットアップした話](https://qiita.com/ngkr327/items/cc5b199abddaa6739ca7) | 2023年01月28日 | 2023年09月01日 |
-| [clasp を導入した話](https://qiita.com/ngkr327/items/31ff70142860eb4f9ec6) | 2023年02月25日 |  |
-| [Mac 環境から Node.js を アンインストールする話](https://qiita.com/ngkr327/items/b02aa83d8eaff086385d) | 2023年04月29日 |  |
+- [記事一覧](https://github.com/ngkr327/articles/wiki#%E8%A8%98%E4%BA%8B%E4%B8%80%E8%A6%A7)
 
 ## Author
 
