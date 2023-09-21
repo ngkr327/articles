@@ -1,10 +1,15 @@
 ---
-title: "ARRAYFOMULA 関数で複数行のそれぞれの合計を計算する話"
-tags: ["spreadsheet", "ARRAYFORMULA"]
+title: ARRAYFOMULA 関数で複数行のそれぞれの合計を計算する話
+tags:
+  - spreadsheet
+  - ARRAYFORMULA
 private: false
-url: "https://qiita.com/ngkr327/items/018971759f6099400e72"
+updated_at: '2022-06-25T08:05:36+09:00'
+id: 018971759f6099400e72
+organization_url_name: null
+slide: false
+ignorePublish: false
 ---
-
 ## はじめに
 
 スプレッドシートにある ARRAYFOMULA 関数の備忘録まとめとなります。

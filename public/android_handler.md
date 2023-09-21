@@ -1,10 +1,15 @@
 ---
-title: "Android で指定した時間後に処理を行う方法についての話"
-tags: ["Android", "Handler"]
+title: Android で指定した時間後に処理を行う方法についての話
+tags:
+  - Android
+  - Handler
 private: false
-url: "https://qiita.com/ngkr327/items/e21dfb12d39f48f4b08f"
+updated_at: '2023-09-01T22:43:28+09:00'
+id: e21dfb12d39f48f4b08f
+organization_url_name: null
+slide: false
+ignorePublish: false
 ---
-
 ## はじめに
 
 Android で指定された時間後に処理を実行する方法についての備忘録まとめとなります。

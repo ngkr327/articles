@@ -1,10 +1,15 @@
 ---
-title: "Google Apps Script でスプレッドシートの最終行に値をコピーする話"
-tags: ["GoogleAppsScript", "spreadsheet"]
+title: Google Apps Script でスプレッドシートの最終行に値をコピーする話
+tags:
+  - GoogleAppsScript
+  - spreadsheet
 private: false
-url: "https://qiita.com/ngkr327/items/ab43e4bc51a408389664"
+updated_at: '2022-09-24T08:42:43+09:00'
+id: ab43e4bc51a408389664
+organization_url_name: null
+slide: false
+ignorePublish: false
 ---
-
 ## はじめに
 
 Google Apps Script (GAS) の `copyTo()` 関数を使ってスプレッドシートのセルをコピー＆ペーストします。

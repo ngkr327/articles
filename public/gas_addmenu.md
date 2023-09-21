@@ -1,10 +1,15 @@
 ---
-title: "Google Apps Script でスプレッドシートにカスタムメニューを追加する話"
-tags: ["GoogleAppsScript", "spreadsheet "]
+title: Google Apps Script でスプレッドシートにカスタムメニューを追加する話
+tags:
+  - GoogleAppsScript
+  - spreadsheet
 private: false
-url: "https://qiita.com/ngkr327/items/9cb2cf989d5da750a4b1"
+updated_at: '2022-10-29T09:10:13+09:00'
+id: 9cb2cf989d5da750a4b1
+organization_url_name: null
+slide: false
+ignorePublish: false
 ---
-
 ## はじめに
 
 Google Apps Script（GAS）のトリガーを使って、スプレッドシートにカスタムメニューを追加することができます。

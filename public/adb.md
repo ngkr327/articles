@@ -1,10 +1,15 @@
 ---
-title: "adb コマンド一覧"
-tags: ["Android", "adb"]
+title: adb コマンド一覧
+tags:
+  - Android
+  - adb
 private: false
-url: "https://qiita.com/ngkr327/items/1d371de69f7851971a1c"
+updated_at: '2023-09-01T22:21:15+09:00'
+id: 1d371de69f7851971a1c
+organization_url_name: null
+slide: false
+ignorePublish: false
 ---
-
 ## はじめに
 
 今更ながらせっかくなので個人的によく使う adb のコマンドをまとめました。

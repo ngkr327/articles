@@ -1,10 +1,15 @@
 ---
-title: "clasp を導入した話"
-tags: ["GoogleAppsScript", "clasp"]
+title: clasp を導入した話
+tags:
+  - GoogleAppsScript
+  - clasp
 private: false
-url: "https://qiita.com/ngkr327/items/31ff70142860eb4f9ec6"
+updated_at: '2023-02-25T08:06:07+09:00'
+id: 31ff70142860eb4f9ec6
+organization_url_name: null
+slide: false
+ignorePublish: false
 ---
-
 ## はじめに
 
 既存の Google Apps Scirpt プロジェクトをコード管理するため、google/clasp を導入したのでその手順などを個人的メモとしてまとめました。

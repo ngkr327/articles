@@ -1,10 +1,15 @@
 ---
-title: "今年読んだ書籍の読書記録【2022年版】"
-tags: ["書籍", "技術書"]
+title: 今年読んだ書籍の読書記録【2022年版】
+tags:
+  - 技術書
+  - 書籍
 private: false
-url: "https://qiita.com/ngkr327/items/e3a44da406743e44d2f3"
+updated_at: '2022-12-31T08:03:41+09:00'
+id: e3a44da406743e44d2f3
+organization_url_name: null
+slide: false
+ignorePublish: false
 ---
-
 ## はじめに
 
 2022 年に読んだ書籍を備忘録としてまとめました。

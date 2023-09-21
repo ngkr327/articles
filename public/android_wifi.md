@@ -1,10 +1,16 @@
 ---
-title: "Android の Wi-Fi 関連の実装についての話"
-tags: ["Android", "Kotlin", "WiFi"]
+title: Android の Wi-Fi 関連の実装についての話
+tags:
+  - Android
+  - Kotlin
+  - WiFi
 private: false
-url: "https://qiita.com/ngkr327/items/dabd90aebe7caaf5b743"
+updated_at: '2023-09-01T22:41:39+09:00'
+id: dabd90aebe7caaf5b743
+organization_url_name: null
+slide: false
+ignorePublish: false
 ---
-
 ## はじめに
 
 今更ながら Android で Wi-Fi まわりの実装を行う機会があったので個人的にまとめました。

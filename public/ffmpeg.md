@@ -1,10 +1,14 @@
 ---
-title: "FFmpeg コマンド一覧"
-tags: ["ffmpeg"]
+title: FFmpeg コマンド一覧
+tags:
+  - ffmpeg
 private: false
-url: "https://qiita.com/ngkr327/items/073725350c3cf43364e0"
+updated_at: '2023-09-01T22:23:36+09:00'
+id: 073725350c3cf43364e0
+organization_url_name: null
+slide: false
+ignorePublish: false
 ---
-
 ## はじめに
 
 FFmpeg を用いて動画を編集する機会があり、せっかくなので個人的によく使うコマンドをまとめました。
@@ -44,6 +48,7 @@ $ ./ffmpeg -i input.mp4 -vcodec copy -an output.mp4
 ### .mov から .mp4 に動画を変換する
 
 QuickTime Player で再生させるためには `-pix_fmt yuv420p` オプションが必要です。
+
 
 ```
 $ ./ffmpeg -i input.mp4 -pix_fmt yuv420p output.mp4

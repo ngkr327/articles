@@ -1,10 +1,15 @@
 ---
-title: "今年読んだ書籍の読書記録【2021年版】"
-tags: ["書籍", "技術書"]
+title: 今年読んだ書籍の読書記録【2021年版】
+tags:
+  - 技術書
+  - 書籍
 private: false
-url: "https://qiita.com/ngkr327/items/963438b127e8d09dda91"
+updated_at: '2023-09-01T21:57:29+09:00'
+id: 963438b127e8d09dda91
+organization_url_name: null
+slide: false
+ignorePublish: false
 ---
-
 ## はじめに
 
 2021 年に読んだ書籍を備忘録としてまとめました。

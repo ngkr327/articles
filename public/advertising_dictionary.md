@@ -1,18 +1,24 @@
 ---
-title: "広告／アドテック用語辞典"
-tags: ["広告", "アドテク", "用語"]
+title: 広告／アドテック用語辞典
+tags:
+  - 広告
+  - 用語
+  - アドテク
 private: false
-url: "https://qiita.com/ngkr327/items/95ad713f811710185f44"
+updated_at: '2023-09-01T21:55:17+09:00'
+id: 95ad713f811710185f44
+organization_url_name: null
+slide: false
+ignorePublish: false
 ---
-
 ## はじめに
 
-広告およびアドテクに関する略語・用語などを個人的メモとしてまとめました。
+広告およびアドテクに関する略語・用語を個人的メモとしてまとめました。
 
 ## 索引
 
 - [Ａ〜Ｚ](#AZ)
-  - [CPD](#CPD)
+  - [CPD](#CPD) 
   - [DoubleClick For Publishers](#DFP)
   - [DSP](#DSP)
   - [Google Ad Manager](#GAM)

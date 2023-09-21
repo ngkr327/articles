@@ -1,10 +1,16 @@
 ---
-title: "ktlint を導入した話"
-tags: ["Android", "Kotlin", "Ktlint"]
+title: ktlint を導入した話
+tags:
+  - Android
+  - Kotlin
+  - ktlint
 private: false
-url: "https://qiita.com/ngkr327/items/fcc2b3dc4e388abcfef3"
+updated_at: '2023-09-01T22:10:47+09:00'
+id: fcc2b3dc4e388abcfef3
+organization_url_name: null
+slide: false
+ignorePublish: false
 ---
-
 ## はじめに
 
 今更ながら ktlint を導入する機会があったので、その手順などをまとめました。

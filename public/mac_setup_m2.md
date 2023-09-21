@@ -1,10 +1,18 @@
 ---
-title: "M2 Mac に開発環境をセットアップした話"
-tags: ["Mac", "M2", "Git", "VSCode", "Android"]
+title: M2 Mac に開発環境をセットアップした話
+tags:
+  - Android
+  - Mac
+  - Git
+  - VSCode
+  - M2
 private: false
-url: "https://qiita.com/ngkr327/items/cc5b199abddaa6739ca7"
+updated_at: '2023-09-01T22:05:16+09:00'
+id: cc5b199abddaa6739ca7
+organization_url_name: null
+slide: false
+ignorePublish: false
 ---
-
 ## はじめに
 
 M2 MacBook Pro に開発環境を構築したので個人的メモとしてまとめました。

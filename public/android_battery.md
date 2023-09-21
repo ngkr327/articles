@@ -1,10 +1,16 @@
 ---
-title: "Android で端末の充電状態を監視するようにした話"
-tags: ["Android", "Kotlin", "battery"]
+title: Android で端末の充電状態を監視するようにした話
+tags:
+  - Android
+  - Kotlin
+  - battery
 private: false
-url: "https://qiita.com/ngkr327/items/112885cad9806e233b9d"
+updated_at: '2022-07-30T08:18:58+09:00'
+id: 112885cad9806e233b9d
+organization_url_name: null
+slide: false
+ignorePublish: false
 ---
-
 ## はじめに
 
 バッテリーの充電状況を取得するための備忘録メモとなります。
