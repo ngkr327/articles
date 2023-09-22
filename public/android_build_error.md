@@ -5,8 +5,8 @@ tags:
   - gradle
   - AndroidStudio
 private: false
-updated_at: ''
-id: null
+updated_at: '2023-09-23T08:01:16+09:00'
+id: 70b8a8314c08660cd611
 organization_url_name: null
 slide: false
 ignorePublish: false
