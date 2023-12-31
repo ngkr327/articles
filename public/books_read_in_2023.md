@@ -4,8 +4,8 @@ tags:
   - 技術書
   - 書籍
 private: false
-updated_at: ''
-id: null
+updated_at: '2023-12-31T18:21:39+09:00'
+id: 75693e463621b14babd0
 organization_url_name: null
 slide: false
 ignorePublish: false
